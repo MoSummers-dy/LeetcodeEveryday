@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [LeetcodeEveryday](README.md)
+* [LC 200 Number of Islands](1220-lc200.md)
 
