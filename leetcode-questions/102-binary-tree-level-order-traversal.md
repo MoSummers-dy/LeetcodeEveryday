@@ -4,13 +4,11 @@ description: '#Tree #BFS'
 
 # 102 Binary Tree Level Order Traversal
 
-## 102 Binary Tree Level Order Traversal
-
 Written: 2020-12-23
 
 Given a binary tree, return the level order traversal of its nodes' values. \(ie, from left to right, level by level\).
 
-### Method 1: BFS with Recursion
+## Method 1: BFS with Recursion
 
 ```java
 /**
@@ -63,7 +61,7 @@ class Solution {
 }
 ```
 
-### Method 2: BFS with Iteration  
+## Method 2: BFS with Iteration  
 
 ```java
 /**
