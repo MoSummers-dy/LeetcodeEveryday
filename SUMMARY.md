@@ -19,7 +19,8 @@
 ## Algorithms
 
 * [Introduction](algorithms/introduction.md)
-* [Two Pointers](algorithms/two-pointers.md)
+* [Two Pointers](algorithms/two-pointers/README.md)
+  * [Related Question](algorithms/two-pointers/related-question.md)
 * [Dynamic Programming](algorithms/dynamic-programming/README.md)
   * [Related Questions](algorithms/dynamic-programming/related-questions.md)
 
