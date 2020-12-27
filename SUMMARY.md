@@ -21,6 +21,8 @@
 * [Introduction](algorithms/introduction.md)
 * [Two Pointers](algorithms/two-pointers/README.md)
   * [Related Question](algorithms/two-pointers/related-question.md)
+* [Search](algorithms/search/README.md)
+  * [Related Question](algorithms/search/related-question.md)
 * [Dynamic Programming](algorithms/dynamic-programming/README.md)
   * [Related Questions](algorithms/dynamic-programming/related-questions.md)
 
@@ -32,4 +34,5 @@
 * [200 Number of Islands](leetcode-questions/1220-lc200.md)
 * [221 Maximal Square](leetcode-questions/221-maximal-square.md)
 * [404 Sum of Left Leaves](leetcode-questions/404-sum-of-left-leaves.md)
+* [981. Time Based Key-Value Store](leetcode-questions/981.-time-based-key-value-store.md)
 
