@@ -33,6 +33,7 @@
 * [102 Binary Tree Level Order Traversal](leetcode-questions/102-binary-tree-level-order-traversal.md)
 * [200 Number of Islands](leetcode-questions/1220-lc200.md)
 * [221 Maximal Square](leetcode-questions/221-maximal-square.md)
+* [287 Find the Duplicate Number](leetcode-questions/287-find-the-duplicate-number.md)
 * [404 Sum of Left Leaves](leetcode-questions/404-sum-of-left-leaves.md)
 * [981 Time Based Key-Value Store](leetcode-questions/981.-time-based-key-value-store.md)
 
