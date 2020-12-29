@@ -35,5 +35,6 @@
 * [221 Maximal Square](leetcode-questions/221-maximal-square.md)
 * [287 Find the Duplicate Number](leetcode-questions/287-find-the-duplicate-number.md)
 * [404 Sum of Left Leaves](leetcode-questions/404-sum-of-left-leaves.md)
+* [692 Top K Frequent Words](leetcode-questions/692-top-k-frequent-words.md)
 * [981 Time Based Key-Value Store](leetcode-questions/981.-time-based-key-value-store.md)
 
