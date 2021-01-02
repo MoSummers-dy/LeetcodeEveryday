@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="Easy" %}
+{% page-ref page="../../leetcode-questions/100-same-tree.md" %}
+
 
 
 {% page-ref page="../../leetcode-questions/404-sum-of-left-leaves.md" %}

@@ -32,6 +32,7 @@
 * [11 Container With Most Water](leetcode-questions/11-container-with-most-water.md)
 * [56 Merge Intervals](leetcode-questions/56-merge-intervals.md)
 * [94 Binary Tree Inorder Traversal](leetcode-questions/94-binary-tree-inorder-traversal.md)
+* [100 Same Tree](leetcode-questions/100-same-tree.md)
 * [102 Binary Tree Level Order Traversal](leetcode-questions/102-binary-tree-level-order-traversal.md)
 * [200 Number of Islands](leetcode-questions/1220-lc200.md)
 * [221 Maximal Square](leetcode-questions/221-maximal-square.md)
