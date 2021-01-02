@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Easy" %}
-
+{% page-ref page="../../leetcode-questions/1-two-sum.md" %}
 {% endtab %}
 
 {% tab title="Medium" %}

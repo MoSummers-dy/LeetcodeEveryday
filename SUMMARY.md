@@ -28,6 +28,7 @@
 
 ## Leetcode Questions
 
+* [1 Two Sum](leetcode-questions/1-two-sum.md)
 * [11 Container With Most Water](leetcode-questions/11-container-with-most-water.md)
 * [56 Merge Intervals](leetcode-questions/56-merge-intervals.md)
 * [94 Binary Tree Inorder Traversal](leetcode-questions/94-binary-tree-inorder-traversal.md)
